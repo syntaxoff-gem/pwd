@@ -1,3 +1,4 @@
+# pages/test.py
 from django.test import SimpleTestCase
 
 
